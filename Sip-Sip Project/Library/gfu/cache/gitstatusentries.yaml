@@ -13,15 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-09-12T13:49:56.889-04:00
+  lastUpdatedAtString: 2021-09-12T13:59:45.515-04:00
   initializedAtString: 2021-09-12T13:33:47.949-04:00
   entries:
+  - path: README.md
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/README.md
+    projectPath: ../README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/.gitattributes
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/.gitattributes
+    projectPath: Library/.gitattributes
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sip-Sip Project/Library/BuildSettings.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/BuildSettings.asset
+    projectPath: Library/BuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/CurrentLayout-default.dwlt
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/EditorSnapSettings.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/EditorSnapSettings.asset
+    projectPath: Library/EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/EditorUserBuildSettings.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Sip-Sip Project/Library/gfu/cache/branches.yaml
     fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Sip-Sip Project/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
@@ -32,8 +68,8 @@ MonoBehaviour:
     fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Sip-Sip Project/Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
@@ -46,9 +82,547 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Sip-Sip Project/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/InspectorExpandedItems.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/MonoManager.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/MonoManager.asset
+    projectPath: Library/MonoManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Hero.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Hero.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Hero.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Full.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Full.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Full.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Poison.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Poison.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Poison.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Rage.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Rage.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr Rage.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Rikr.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Zombie1.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Zombie1.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Zombie1.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Zombie2.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Zombie2.asset
+    projectPath: Library/PackageCache/com.unity.2d.animation@5.0.7/Samples~/AnimationSamples/5
+      SpriteSwap/Sprite Library/Zombie2.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1/Samples~/Scenes
+      and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Tile Asset/Ocean.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1/Samples~/Scenes
+      and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Tile Asset/Ocean.asset
+    projectPath: Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1/Samples~/Scenes
+      and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Tile Asset/Ocean.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1/Samples~/Scenes
+      and Extras/Scenes/Rule Tiles/Dungeon Tile/Tile Asset/Cave.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1/Samples~/Scenes
+      and Extras/Scenes/Rule Tiles/Dungeon Tile/Tile Asset/Cave.asset
+    projectPath: Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1/Samples~/Scenes
+      and Extras/Scenes/Rule Tiles/Dungeon Tile/Tile Asset/Cave.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Editor/ObjectMenuCreation/DefaultAssets/Sprite
+      Shape Profiles/Sprite Shape Profile.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Editor/ObjectMenuCreation/DefaultAssets/Sprite
+      Shape Profiles/Sprite Shape Profile.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Editor/ObjectMenuCreation/DefaultAssets/Sprite
+      Shape Profiles/Sprite Shape Profile.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Branch.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Branch.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Branch.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Castle Wall.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Castle Wall.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Castle Wall.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple1.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple1.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple1.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple2.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple2.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple2.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple3.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple3.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Simple3.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Tree A.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Tree A.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprite
+      Shape Profiles/Tree A.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprites/CastleWall.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprites/CastleWall.psd
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Sprites/CastleWall.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Textures/CastleWallFill.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Textures/CastleWallFill.psd
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Extras/Textures/CastleWallFill.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Basic.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Basic.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Basic.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Castle Wall.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Castle Wall.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Castle Wall.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Grass and Rocks.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Grass and Rocks.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Grass and Rocks.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Grass Strip.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Grass Strip.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Grass Strip.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Platform Supports.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Platform Supports.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Platform Supports.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Platform.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Platform.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Platform.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree A.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree A.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree A.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree B.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree B.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree B.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree C.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree C.asset
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprite
+      Shape Profiles/Tree C.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprites/CastleWall.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprites/CastleWall.psd
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Sprites/CastleWall.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Textures/CastleWallFill.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Textures/CastleWallFill.psd
+    projectPath: Library/PackageCache/com.unity.2d.spriteshape@5.1.4/Samples~/Samples/Textures/CastleWallFill.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Dropdown Icon.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Dropdown Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos/TMP
+      - Dropdown Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Font Asset Icon.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Font Asset Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos/TMP
+      - Font Asset Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Input Field Icon.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Input Field Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos/TMP
+      - Input Field Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Sprite Asset Icon.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Sprite Asset Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos/TMP
+      - Sprite Asset Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Text Component Icon.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Gizmos/TMP - Text Component Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos/TMP
+      - Text Component Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBaseLine.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBaseLine.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignBaseLine.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBaseLine_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBaseLine_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBottom.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBottom.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignBottom.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBottom_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignBottom_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignBottom_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCapLine.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCapLine.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignCapLine.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCapLine_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCapLine_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenter.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenter.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignCenter.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenter_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenter_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignCenter_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenterGeo.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenterGeo.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignCenterGeo.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenterGeo_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignCenterGeo_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignFlush.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignFlush.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignFlush.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignFlush_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignFlush_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignFlush_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignJustified.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignJustified.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignJustified.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignJustified_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignJustified_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignJustified_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignLeft.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignLeft.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignLeft.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignLeft_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignLeft_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignLeft_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMiddle.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMiddle.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignMiddle.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMiddle_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMiddle_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMidLine.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMidLine.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignMidLine.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMidline_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignMidline_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignMidline_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignRight.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignRight.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignRight.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignRight_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignRight_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignRight_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignTop.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignTop.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignTop.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignTop_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/btn_AlignTop_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignTop_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/SectionHeader_Dark.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/SectionHeader_Dark.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/SectionHeader_Dark.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/SectionHeader_Light.psd
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor
+      Resources/Textures/SectionHeader_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/SectionHeader_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/SceneVisibilityState.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/ShaderCache.db
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/ShaderCache.db
+    projectPath: Library/ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Sip-Sip Project/Library/SourceAssetDB
     fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sip-Sip Project/Library/SpriteAtlasDatabase.asset
+    fullPath: /Users/artisja/Unity/Sip-SIp-Game/Sip-Sip Project/Library/SpriteAtlasDatabase.asset
+    projectPath: Library/SpriteAtlasDatabase.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
