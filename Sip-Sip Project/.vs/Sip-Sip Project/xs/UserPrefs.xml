@@ -1,23 +1,12 @@
-﻿<Properties StartupConfiguration="{03F96653-00DC-842F-487B-67B0F91CA025}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.ide.visualstudio@2.0.11/Editor/VisualStudioIntegration.cs">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.2d.psdimporter@4.1.0/Editor/PSDImporter.cs">
     <Files>
-      <File FileName="Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs" Line="12" Column="52" />
-      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.11/Editor/VisualStudioIntegration.cs" Line="149" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.2d.psdimporter@4.1.0/Editor/PSDImporter.cs" Line="594" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Sip-Sip Project" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Plugins" expanded="True">
-                <Node name="GitHub" expanded="True">
-                  <Node name="Editor" expanded="True">
-                    <Node name="UnityAPIWrapper.cs" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Sip-Sip Project" selected="True" />
         </State>
       </Pad>
     </Pads>
