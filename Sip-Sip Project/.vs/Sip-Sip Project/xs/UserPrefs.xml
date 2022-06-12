@@ -1,8 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.2d.psdimporter@4.1.0/Editor/PSDImporter.cs">
-    <Files>
-      <File FileName="Library/PackageCache/com.unity.2d.psdimporter@4.1.0/Editor/PSDImporter.cs" Line="594" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
