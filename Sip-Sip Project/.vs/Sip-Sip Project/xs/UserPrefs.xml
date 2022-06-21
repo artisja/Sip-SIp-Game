@@ -1,15 +1,35 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{A27B0088-5AE9-DB84-2BB2-2209196E3BED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/cup/cupAnimatorManager.cs">
+    <Files>
+      <File FileName="Assets/scripts/cup/cupinteractionManager.cs" Line="38" Column="9" />
+      <File FileName="Assets/scripts/cup/testScript.cs" Line="17" Column="6" />
+      <File FileName="Assets/scripts/levelManager.cs" Line="19" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Sip-Sip Project" selected="True" />
+          <Node name="Sip-Sip Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="cup" expanded="True">
+                  <Node name="cupAnimatorManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>cupSprite</Value>
+          <Value>this.cIm</Value>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="00c4eac4-bbd4-4827-b749-a8fa32dda693" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
