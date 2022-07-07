@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2022-07-07T00:38:32.742-04:00
+  initializedAtString: 2022-07-06T23:27:29.332-04:00
+  localBranches:
+  - name: art-start-screen
+    tracking: origin/art-start-screen
+  - name: main
+    tracking: origin/main
+  remoteBranches:
+  - name: origin/art-start-screen
+    tracking: '[None]'
+  - name: origin/cup_game_interaction
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - art-start-screen
+    - main
+    values:
+    - name: art-start-screen
+      remote:
+        name: origin
+        url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
+      trackingBranch: art-start-screen
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
+      trackingBranch: main
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - art-start-screen
+      - cup_game_interaction
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: art-start-screen
+        remote:
+          name: origin
+          url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
+        trackingBranch: 
+      - name: cup_game_interaction
+        remote:
+          name: origin
+          url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/coreygatesTHEDEV/Sip-Sip-Game.git
