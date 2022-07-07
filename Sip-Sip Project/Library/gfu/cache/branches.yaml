@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-07-07T00:38:32.742-04:00
+  lastUpdatedAtString: 2022-07-07T00:50:56.827-04:00
   initializedAtString: 2022-07-06T23:27:29.332-04:00
   localBranches:
   - name: art-start-screen
