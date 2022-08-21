@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/cup_drink_guess.unity
+- path: Assets/Water2D/EXAMPLES/1- Basic Water in scene/1- AssetStoreVideoScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

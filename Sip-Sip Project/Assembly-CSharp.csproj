@@ -56,9 +56,47 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/scripts/cup/cupAnimatorManager.cs" />
+    <Compile Include="Assets/Water2D/Scripts/screenshot.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/3D - Water and lava stuffs/DeleteParticles.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/DecoratorManager.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/3D - Water and lava stuffs/LavaEvents.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/3D - Water and lava stuffs/Rotation.cs" />
+    <Compile Include="Assets/Water2D/Core/MetaballCameraEffect.cs" />
+    <Compile Include="Assets/Water2D/Core/ResizeQuadEffectController.cs" />
     <Compile Include="Assets/scripts/gameManager.cs" />
+    <Compile Include="Assets/Water2D/Core/CoreUtils.cs" />
+    <Compile Include="Assets/Water2D/Core/PhysicsSimulation.cs" />
+    <Compile Include="Assets/Water2D/Core/Water2DCameraManager.cs" />
+    <Compile Include="Assets/Water2D/Core/ColliderFillerExtension/ColliderTrigger.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/2- Multiple Spawner and Colors/ColorPicker.cs" />
+    <Compile Include="Assets/Water2D/Scripts/_SpawnExampleController.cs" />
+    <Compile Include="Assets/Water2D/Core/ColliderFillerExtension/ColliderFiller.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/Mover.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/3D - Water and lava stuffs/LavaColorPicker.cs" />
+    <Compile Include="Assets/Water2D/Scripts/MouseColliderController.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/7- Blending Colors - Glass rotator/SimpleRotation.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/10- Soda jet/ApplyPhysicsForceManager.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/8- Current generator/GeneratorController.cs" />
+    <Compile Include="Assets/Water2D/Core/SpawnersManager.cs" />
+    <Compile Include="Assets/Water2D/Core/Water2DEvents.cs" />
+    <Compile Include="Assets/Water2D/Core/ColliderFillerExtension/ColliderFillerGizmos.cs" />
+    <Compile Include="Assets/Water2D/Core/Water2DPlayModeStateChanged.cs" />
+    <Compile Include="Assets/Water2D/Core/Water2D_Spawner.cs" />
+    <Compile Include="Assets/Water2D/Core/MetaballParticleClass.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/ActionDispatcher.cs" />
     <Compile Include="Assets/scripts/levelManager.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/5- Events and Water/DeleteTriggerBoundingBox.cs" />
+    <Compile Include="Assets/scripts/cup/cupAnimatorManager.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/3- High Viscosity fluid/3D - Water and lava stuffs/TransformToMouseDirection.cs" />
+    <Compile Include="Assets/Water2D/EXAMPLES/5- Events and Water/PlaySoundOnEverySpawn.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Water2D/Shaders/Metaballs_Simple.shader" />
+    <None Include="Assets/Water2D/Shaders/Metaballs_Refracting.shader" />
+    <None Include="Assets/Water2D/Shaders/BlurEffectConeTaps.shader" />
+    <None Include="Assets/Water2D/Shaders/GrabPassInvertColors.shader" />
+    <None Include="Assets/Water2D/Shaders/Metaballs_RegularFresnel.shader" />
+    <None Include="Assets/Water2D/readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
